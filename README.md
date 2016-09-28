@@ -1,4 +1,8 @@
 # RebornDB
 RebornDB
 
-Database Project for WoD Server!
+Database Project for WoD Server! 
+
+TODO:
+
+- Starting Areas!
